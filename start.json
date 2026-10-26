@@ -1,0 +1,8 @@
+{
+    "name": "TV kanaly",
+    "version": "1.0.0",
+    "parameter": "menu:https://jama1141.github.io/msx/data/menu.json",
+    "launcher": {
+        "icon": "live-tv"
+    }
+}
